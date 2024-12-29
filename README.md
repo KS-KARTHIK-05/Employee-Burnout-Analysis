@@ -1,7 +1,7 @@
 # Employee-Burnout-Analysis
 Employee Burnout Analysis A machine learning project aimed at analyzing employee burnout by identifying key contributing factors and predicting burnout levels. This project leverages data analysis and predictive modeling to provide actionable insights for improving employee well-being and productivit
 
-## Employee Burnout Analysis
+## Employee Burnout Analysis IBM Project
 ## Overview
 
 Employee burnout is a critical issue in workplaces today, characterized by physical and emotional fatigue due to chronic workplace stress. This project employs machine learning techniques to analyze employee-related factors and predict burnout levels. The aim is to provide actionable insights for organizations to address burnout effectively and enhance workplace well-being.
